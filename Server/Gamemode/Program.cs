@@ -17,7 +17,6 @@ namespace gamemode
         public override void OnStop()
         {
             Console.WriteLine("<--- Fermetureasd Atlis Island Server --->");
-            Console.WriteLine("<-->>");
         }
     
         public override IEntityFactory<IPlayer> GetPlayerFactory()
