@@ -1,0 +1,68 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">INFO</s:String>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/d3xt3rr/.nuget/packages/mysql.data/8.0.30/lib/net6.0/MySql.Data.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4825ea49_002D2107_002D4dc4_002Da8fe_002D522fd92c845c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="bd" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Accounts&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4d9b01f0_002D9927_002D4770_002D9ec8_002D6282e712f980/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="connectAccount #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Accounts.connectAccount&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58707290_002Dea29_002D43de_002D8f59_002D179037b063b2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Tests.Test1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b69d17b_002Dd159_002D4e19_002D9bc9_002D28ef51344b80/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FetchAll #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Tests.FetchAll&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Tests.Execute&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ab239ea_002D3576_002D498b_002D9927_002D91b6073fc179/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Tests.FetchAll&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Tests.Execute&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.PlayerEvent.CreatePlayer&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8a8cecbb_002Dc739_002D4aff_002Db56d_002D7d222a42799c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Tests.Test1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=99378323_002D7cea_002D4a06_002D8596_002De118c389372f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FetchAll" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Tests.FetchAll&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Tests.Execute&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Accounts.createAccount&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Accounts.bd&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a7281387_002D1eaa_002D498d_002D9780_002D8f6cf16bbac4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="bd #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Accounts.bd&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ac2a26bd_002D7d59_002D47a7_002D85ab_002Df4af697d6136/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="connectAccount" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Accounts.connectAccount&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b821f852_002De686_002D45a1_002Da9a6_002De0708a259e2d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FetchAll #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Tests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.PlayerEvent&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Accounts.createAccount&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e41ed4e6_002D463f_002D42ef_002D92ab_002D1f604f7a60a0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="bd #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::38455EC8-39CF-48F5-9CC9-04AE602CDAEE::net6.0::GamemodeTest.Accounts&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
