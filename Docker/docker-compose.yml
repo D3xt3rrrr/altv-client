@@ -1,0 +1,48 @@
+version: '3.1'
+services:
+  altv-postgres:
+    image: postgres
+    ports:
+      - "5432:5432"
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: 9144tbbw
+      POSTGRES_DB: altv
+      POSTGRES_USER: altv
+    volumes:
+      - /Users/mathieuthibeault-thuot/SynologyDrive/Mathieu/coding/altv/database:/DOCKER-ENTRYPOINT-INITDB.D
+    networks: 
+      - postgres
+  
+  altv-server:
+    image: altv
+    ports:
+      - "7788:7788"
+      - "80:80"
+      - "80:80/udp"
+      - "443:443"
+      - "443:443/udp"
+      - "8080:8080"
+      - "8080:8080/udp"
+      - "7788:7788/udp"
+    restart: always
+    environment:
+      ALTV_SERVER_RESOURCES : gamemode 
+      ALTV_SERVER_HOST : 0.0.0.0
+      ALTV_SERVER_DEBUG : true
+      ALTV_SERVER_JUSTPACK : true
+    volumes:
+      - /Users/mathieuthibeault-thuot/SynologyDrive/Mathieu/coding/altv/resources/:/opt/altv/resources
+    network_mode: bridge
+    networks:
+      - postgres
+      - alt
+    depends_on: 
+      - altv-postgres
+
+
+networks:
+  postgres:
+    driver: bridge
+  alt: 
+    driver: bridge

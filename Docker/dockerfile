@@ -1,0 +1,11 @@
+FROM eisengrind/altv-server:dev
+
+EXPOSE 7788/udp
+EXPOSE 7788/tcp
+
+ARG ALTV_SERVER_JUSTPACK=true
+ARG ALTV_SERVER_CDN_URL="http://127.0.0.1"
+
+
+
+
