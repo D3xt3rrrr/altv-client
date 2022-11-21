@@ -10,5 +10,6 @@ public class LsCustomEvent : IScript
     public static void updateWindowsEvent(MyPlayer player, MyVehicle veh)
     {
         
+        
     }
 }

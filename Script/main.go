@@ -57,8 +57,9 @@ func BuildClient() {
 }
 
 func BuildServer() {
-	changeDirectory("../Server/")
-	cmd := exec.Command("pwd")
+	//changeDirectory("../Server/")
+	cmd := exec.Command("dotnet build")
+	cmd.Dir = "../Server/"
 	err := cmd.Run()
 	if err != nil {
 		log.Panic(err)
